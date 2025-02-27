@@ -42,8 +42,8 @@ This is a simple yet feature-rich **Countdown Timer App** built with **Streamlit
 Set a **30-minute countdown** with a label "Study Session" and a custom completion message "Break Time!" to remind yourself when to take a break.
 
 ## 🌟 App Preview & Live Link
-- **Live Demo:** [Click here](#)
-- **Screenshots:** *(C:\Users\Zohaib\Desktop\My IT Courses\GIAIC Quarter 3\9 Compulsory Project\project_6\app\image\screenshot.png)*
+- **Live Demo:** [Click here](https://countdown-timer.streamlit.app/)
+- **Screenshots:** *(image\screenshot.png)*
 
 ## 🏷️ Author
 **Zohaib Javed**  
