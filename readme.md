@@ -43,7 +43,7 @@ Set a **30-minute countdown** with a label "Study Session" and a custom completi
 
 ## 🌟 App Preview & Live Link
 - **Live Demo:** [Click here](https://countdown-timer.streamlit.app/)
-- **Screenshots:** *(image\screenshot.png)*
+- **Screenshots:** (image\screenshot.png)
 
 ## 🏷️ Author
 **Zohaib Javed**  
